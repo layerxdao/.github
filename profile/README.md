@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 
-![Thirdweb Examples Header](header-image.png)
+![LayerX Examples Header](header-image.png)
 
-Smart contracts you control. Powerful SDKs and intuitive tools for developers. Ship on-chain faster.
+LayerX DAO  is a L2 EVM Compatible  Rollup Scaled with $ETH Smart Contracts! Build With OP Stack
 
 ## Build Contracts
 
@@ -32,10 +32,10 @@ Check out our [template repositories](https://github.com/thirdweb-example).
 
 We welcome contributions from all developers, regardless of experience level. If you are interested in contributing, please read our [JS Monorepo Contributing Guide](https://github.com/thirdweb-dev/js/blob/main/.github/contributing.md) where you'll learn how the repo works, how to test your changes, and how to submit a pull request.
 
-We're working on contributing guidelines. Stay tuned or join our [Discord](https://discord.com/invite/thirdweb) for more info.
+We're working on contributing guidelines. Stay tuned or join our [Discord](https://discord.com/invite/5uFSepk87z) for more info.
 
 ## Security
 
 If you believe you have found a security vulnerability, we kindly ask you to responsibly disclose this and not open a public issue. 
 
-Please email security@thirdweb.com to disclose any security vulnerabilities.
+Please email security@layerx.build to disclose any security vulnerabilities.
